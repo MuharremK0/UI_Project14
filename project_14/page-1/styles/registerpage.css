@@ -1,4 +1,3 @@
-
 html {
 	font-size:62.5%;
 }
@@ -192,13 +191,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.registerpage-Ru3 .auto-group-lus5-cs3 .auto-group-qs1x-TP7 {
-  width: 100%;
-  height: 8rem;
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-}
+
 .registerpage-Ru3 .auto-group-lus5-cs3 .auto-group-qs1x-TP7 .passwordtext-QZF {
   margin-right: 3.3rem;
   box-sizing: border-box;
@@ -214,7 +207,7 @@ body {
   flex-shrink: 0;
 }
 .registerpage-Ru3 .auto-group-lus5-cs3 .auto-group-qs1x-TP7 .passwordtext-QZF .password-w3P {
-  margin-right: 8.2rem;
+  width: 20rem; /* Adjusted width for the password input */
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -246,6 +239,7 @@ body {
   flex-shrink: 0;
 }
 .registerpage-Ru3 .auto-group-lus5-cs3 .auto-group-qs1x-TP7 .passwordtext-vvu .password-again-FTP {
+  width: 20.5rem; /* Adjusted width for the password again input */
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -324,5 +318,14 @@ body {
   color: #39a7ff;
   font-family: Newsreader, 'Source Sans Pro';
   white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+.registerpage-Ru3 .auto-group-lus5-cs3 .auto-group-qs1x-TP7 {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
   flex-shrink: 0;
 }
