@@ -1,6 +1,7 @@
 
 html {
 	font-size:62.5%;
+  overflow-x:hidden;
 }
 * {
 	margin: 0;
@@ -15,9 +16,7 @@ input {
 body {
   width: 144rem;
 }.rezervationpage-Mub {
-  box-sizing: border-box;
-  padding-bottom: 15.4rem;
-  width: 100%;
+  width: 110%;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -122,7 +121,7 @@ body {
   flex-shrink: 0;
 }
 .rezervationpage-Mub .my-reservations-58m {
-  margin: 0rem 0rem 0.65rem 16.1rem;
+  margin: 0rem 4rem 0.65rem 0.1rem;
   display: flex;
   font-size: 4.8rem;
   font-weight: 800;

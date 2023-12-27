@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Eğer veriler varsa ilgili alanları doldur
   if (checkInDate) {
-      document.getElementById('checkInDateInput').value = checkInDate;
+      document.getElementById('checkInDateInput').value ='     ' +checkInDate;
   }
   if (checkOutDate) {
       document.getElementById('checkOutDateInput').value = checkOutDate;

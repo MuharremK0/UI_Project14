@@ -16,9 +16,7 @@ body {
   width: 144rem;
   margin: 0;
 }.detailpage-xad {
-  box-sizing: border-box;
-  padding-bottom: 15.41rem;
-  width: 100%;
+  width: 110%;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -129,10 +127,10 @@ body {
   flex-shrink: 0;
 }
 .detailpage-xad .searcbaritems-wFX {
-  margin: 0rem 17.395rem 4.9rem 15rem;
+  margin: 0rem 25.395rem 4.9rem 15rem;
   box-sizing: border-box;
   padding: 3.9rem 0rem 1.4rem 0rem;
-  width: calc(100% - 32.395rem);
+  width: calc(100% - 42.395rem);
   height: 13.8rem;
   overflow: hidden;
   position: relative;
@@ -255,6 +253,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+
 }
 .detailpage-xad .searcbaritems-wFX .frame-1-qrh .frame-4-FjP .check-out-date-uZ3 {
   margin-top: 0.85rem;
